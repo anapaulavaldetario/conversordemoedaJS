@@ -8,4 +8,7 @@ Neste projeto podemos fazer a conversão de moedas.
  
 Criação: Ana Paula Valdetário
 
-![Conversor de Moeda](https://github.com/anapaulavaldetario/CoversordemoedaJS/assets/102619370/2f2b412c-bd0c-4886-bf86-d4d01f4ca1b4)
+![Conversor de Moeda](https://github.com/anapaulavaldetario/conversordemoedaJS/assets/102619370/eb127867-5ce3-454b-8d1e-5ac90c506731)
+
+
+
